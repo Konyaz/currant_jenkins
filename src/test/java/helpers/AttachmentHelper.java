@@ -34,7 +34,7 @@ public class AttachmentHelper {
                 + "' type='video/mp4'></video></body></html>";
     }
 
-    public static String getSessionId(){
+    public static String getSessionId() {
         return ((RemoteWebDriver) getWebDriver()).getSessionId().toString();
     }
 
