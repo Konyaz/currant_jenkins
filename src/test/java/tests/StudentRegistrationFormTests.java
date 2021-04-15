@@ -25,7 +25,7 @@ public class StudentRegistrationFormTests extends TestBase {
             hobby1 = "Sports",
             hobby2 = "Reading",
             hobby3 = "Music",
-            picture = "1.png",
+            picture = "JenkinsOptions.png",
             currentAddress = faker.address().fullAddress(),
             state = "NCR",
             city = "Delhi";
